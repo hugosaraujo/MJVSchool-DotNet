@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pressagio", "Pressagio\Pressagio.csproj", "{42473E84-5FB6-4CCE-87F9-ABC6091CA4AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSerializer", "JsonSerializer\JsonSerializer.csproj", "{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{42473E84-5FB6-4CCE-87F9-ABC6091CA4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42473E84-5FB6-4CCE-87F9-ABC6091CA4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42473E84-5FB6-4CCE-87F9-ABC6091CA4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
