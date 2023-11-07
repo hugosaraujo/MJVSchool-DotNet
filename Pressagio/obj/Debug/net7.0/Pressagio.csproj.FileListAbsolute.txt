@@ -1,0 +1,14 @@
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\bin\Debug\net7.0\Pressagio.exe
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\bin\Debug\net7.0\Pressagio.deps.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\bin\Debug\net7.0\Pressagio.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\bin\Debug\net7.0\Pressagio.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\bin\Debug\net7.0\Pressagio.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\refint\Pressagio.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\Pressagio.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Pressagio\obj\Debug\net7.0\ref\Pressagio.dll
