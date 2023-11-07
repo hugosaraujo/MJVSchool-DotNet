@@ -1,0 +1,14 @@
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\bin\Debug\net7.0\JsonSerializer.exe
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\bin\Debug\net7.0\JsonSerializer.deps.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\bin\Debug\net7.0\JsonSerializer.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\bin\Debug\net7.0\JsonSerializer.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\bin\Debug\net7.0\JsonSerializer.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\refint\JsonSerializer.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\JsonSerializer.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\JsonSerializer\obj\Debug\net7.0\ref\JsonSerializer.dll
