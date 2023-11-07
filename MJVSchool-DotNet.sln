@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pressagio", "Pressagio\Pres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSerializer", "JsonSerializer\JsonSerializer.csproj", "{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{3B015112-81CC-40DD-83E1-B855D838D8B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B015112-81CC-40DD-83E1-B855D838D8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B015112-81CC-40DD-83E1-B855D838D8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B015112-81CC-40DD-83E1-B855D838D8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B015112-81CC-40DD-83E1-B855D838D8B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
