@@ -1,0 +1,14 @@
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\bin\Debug\net7.0\DumbMoney.exe
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\bin\Debug\net7.0\DumbMoney.deps.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\bin\Debug\net7.0\DumbMoney.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\bin\Debug\net7.0\DumbMoney.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\bin\Debug\net7.0\DumbMoney.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\refint\DumbMoney.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\DumbMoney.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\DumbMoney\obj\Debug\net7.0\ref\DumbMoney.dll

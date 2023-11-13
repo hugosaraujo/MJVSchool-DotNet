@@ -1,0 +1,14 @@
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\bin\Debug\net7.0\Comparison.exe
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\bin\Debug\net7.0\Comparison.deps.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\bin\Debug\net7.0\Comparison.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\bin\Debug\net7.0\Comparison.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\bin\Debug\net7.0\Comparison.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\refint\Comparison.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\Comparison.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Comparison\obj\Debug\net7.0\ref\Comparison.dll
