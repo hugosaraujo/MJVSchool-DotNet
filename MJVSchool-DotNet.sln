@@ -4,7 +4,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pressagio", "Pressagio\Pres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSerializer", "JsonSerializer\JsonSerializer.csproj", "{1A8E24CF-D6C3-43DF-99DD-FFBEBE0405EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbMoney", "DumbMoney\DumbMoney.csproj", "{2EDCD369-598F-4E9D-A596-E407FF26728A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loteca", "Loteca\Loteca.csproj", "{2EDCD369-598F-4E9D-A596-E407FF26728A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison", "Comparison\Comparison.csproj", "{321E9AD3-F451-4E78-B3B6-EED5C148D4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesDeCodigo", "TestesDeCodigo\TestesDeCodigo.csproj", "{DC74D80F-E93C-443F-B31A-7772D75A087B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +28,13 @@ Global
 		{2EDCD369-598F-4E9D-A596-E407FF26728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EDCD369-598F-4E9D-A596-E407FF26728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EDCD369-598F-4E9D-A596-E407FF26728A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321E9AD3-F451-4E78-B3B6-EED5C148D4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321E9AD3-F451-4E78-B3B6-EED5C148D4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321E9AD3-F451-4E78-B3B6-EED5C148D4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321E9AD3-F451-4E78-B3B6-EED5C148D4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC74D80F-E93C-443F-B31A-7772D75A087B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC74D80F-E93C-443F-B31A-7772D75A087B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC74D80F-E93C-443F-B31A-7772D75A087B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC74D80F-E93C-443F-B31A-7772D75A087B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
