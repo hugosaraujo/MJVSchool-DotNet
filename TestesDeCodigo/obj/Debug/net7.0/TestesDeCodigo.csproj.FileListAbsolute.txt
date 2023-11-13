@@ -1,0 +1,14 @@
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\bin\Debug\net7.0\TestesDeCodigo.exe
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\bin\Debug\net7.0\TestesDeCodigo.deps.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\bin\Debug\net7.0\TestesDeCodigo.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\bin\Debug\net7.0\TestesDeCodigo.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\bin\Debug\net7.0\TestesDeCodigo.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\refint\TestesDeCodigo.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\TestesDeCodigo.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\TestesDeCodigo\obj\Debug\net7.0\ref\TestesDeCodigo.dll

@@ -1,0 +1,14 @@
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\bin\Debug\net7.0\Loteca.exe
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\bin\Debug\net7.0\Loteca.deps.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\bin\Debug\net7.0\Loteca.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\bin\Debug\net7.0\Loteca.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\bin\Debug\net7.0\Loteca.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\refint\Loteca.dll
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.pdb
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\Loteca.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\MJVSchool-DotNet\Loteca\obj\Debug\net7.0\ref\Loteca.dll
