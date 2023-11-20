@@ -1,9 +1,9 @@
 ﻿using JsonSerializer.Models;
 
 /* Melhorias possíveis
-    -> Adicionar linha para criar um arquivo externo com o resultado de ambos consoles. 
+    -> Adicionar linha para criar um arquivo externo com o resultado de ambos os consoles. 
     -> Fazer a dessearilização do objeto; 
-    -> Criar um "record" e fazer os mesmos passos que foi feito na classe; 
+    -> Criar um "record" e fazer os mesmos passos que forem feitos na classe; 
 */
 
 Car c = new("Fiat", "157", 1977);

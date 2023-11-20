@@ -4,6 +4,7 @@
     -> Dispor o número dos jogos de maneira ordenadas e crescente;
     -> Refatoração de código, separação do código com funções; 
     -> criação de jogador usuário com Nome e ValorPago em suas propriedade;   
+    -> mostrar para o usuário, o valor de um possível troco; 
 */
 
 Console.Write("Informe o seu nome: ");
